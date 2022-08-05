@@ -1,2 +1,2 @@
 # Projeto-UNES
-Um simples projeto em Html e Css de uma universidade fictícia feito para demonstrar meus conhecimentos
+Um simples projeto em HTML e CSS de uma universidade fictícia feito para demonstrar meus conhecimentos
