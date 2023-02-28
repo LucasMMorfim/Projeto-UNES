@@ -1,5 +1,4 @@
 # Projeto-UNES
-Projeto de consula a Previsão do Tempo.
 
 ## 💻 Sobre o Projeto
 Um simples projeto em HTML e CSS de uma universidade fictícia feito para demonstrar meus conhecimentos
