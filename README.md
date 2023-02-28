@@ -7,6 +7,8 @@ Um simples projeto em HTML e CSS de uma universidade fictícia feito para demons
 ## 🎨 Layout
 
 ![image](https://github.com/LucasMMorfim/Projeto-UNES/blob/main/fotos/Apresentacao.png)
+![image](https://github.com/LucasMMorfim/Projeto-UNES/blob/main/fotos/quem-somos.png)
+![image](https://github.com/LucasMMorfim/Projeto-UNES/blob/main/fotos/contato.png)
 
 ## 🛠 Tecnologias
 
