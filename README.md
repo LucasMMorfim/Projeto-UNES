@@ -31,7 +31,7 @@ https://lucasmmorfim.github.io/Projeto-UNES/
 #Clone o repositório digitando:
 git clone https://github.com/LucasMMorfim/Projeto-UNES.git
 
-#Entre na pasta do projeto e execute o Index.html com o live server
+#Entre na pasta do projeto e execute o Index.html com o Live Server
 
 ## 📝 Licença
 
