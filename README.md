@@ -22,7 +22,7 @@ Esse projeto foi elaborado para web. </br>
 Para acessar basta clicar no link abaixo:</br>
 https://lucasmmorfim.github.io/Projeto-UNES/
 
-#Usando o Link acima o podem aparecer alguns bugs no projeto devido a plataforma do GITHUB
+#Usando o Link acima podem aparecer alguns bugs no projeto devido a plataforma do GITHUB
 
 ## 📁 Como executar o projeto na sua maquina
 
