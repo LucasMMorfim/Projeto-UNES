@@ -5,9 +5,9 @@ Um simples projeto em HTML e CSS de uma universidade fictícia feito para demons
 
 ## 🎨 Layout
 
-![image](https://github.com/LucasMMorfim/Projeto-UNES/blob/main/fotos/Apresentacao.png)
-![image](https://github.com/LucasMMorfim/Projeto-UNES/blob/main/fotos/quem-somos.png)
-![image](https://github.com/LucasMMorfim/Projeto-UNES/blob/main/fotos/contato.png)
+![image](https://github.com/LucasMMorfim/Projeto-UNES/blob/main/fotos-demonstracao/Apresentacao.png)
+![image](https://github.com/LucasMMorfim/Projeto-UNES/blob/main/fotos-demonstracao/quem-somos.png)
+![image](https://github.com/LucasMMorfim/Projeto-UNES/blob/main/fotos-demonstracao/contato.png)
 
 ## 🛠 Tecnologias
 
@@ -22,7 +22,7 @@ Esse projeto foi elaborado para web. </br>
 Para acessar basta clicar no link abaixo:</br>
 https://lucasmmorfim.github.io/Projeto-UNES/
 
-#Usando o Link acima podem aparecer alguns bugs no projeto devido a plataforma do GITHUB
+❗ Usando o Link acima pode ser que apareça bugs no projeto devido a plataforma do GITHUB ❗
 
 ## 📁 Como executar o projeto na sua maquina
 
