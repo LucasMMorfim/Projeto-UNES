@@ -18,7 +18,7 @@ Foram utilizadas as seguintes ferramentas para o desenvolvimento do projeto:
 
 ## 💡 Como executar o projeto
 
-Esse projeto foi elaborado para web. </br>
+Esse projeto foi elaborado para web💻 </br>
 Para acessar basta clicar no link abaixo:</br>
 https://lucasmmorfim.github.io/Projeto-UNES/
 
