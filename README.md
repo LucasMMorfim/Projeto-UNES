@@ -28,7 +28,7 @@ https://lucasmmorfim.github.io/Projeto-UNES/
 
 -Para executar na sua maquina aconselho usar o VS Code e o Live Server
 
-#Clone o repositório digitando:
+#Baixe o repositório ou clone digitando:
 git clone https://github.com/LucasMMorfim/Projeto-UNES.git
 
 #Entre na pasta do projeto e execute o Index.html com o Live Server
